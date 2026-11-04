@@ -8,4 +8,4 @@
 
 所有业务数据均为演示数据，操作保存在当前浏览器；不接入真实登录、收费或微信通知。
 
-手机在线体验：在 GitHub 仓库 Settings → Pages 中，将 Source 设为 Deploy from a branch，选择 gh-pages 分支和 /(root)，保存后等待 GitHub 显示发布完成。
+手机在线体验：在 GitHub 仓库 Settings → Pages 中，将 Source 设为 Deploy from a branch，选择 prototype-preview 分支和 /(root)，保存后等待 GitHub 显示发布完成。
