@@ -1,5 +1,7 @@
 # 当当说 · 第二轮产品设计研究
 
+[手机直接体验推荐方案 A](https://bennybenny869869-hash.github.io/XXX/#a) · [三个方案首页](https://bennybenny869869-hash.github.io/XXX/)
+
 [下载可交互体验包](https://github.com/bennybenny869869-hash/XXX/archive/refs/heads/prototype-preview.zip)
 
 完整解压 ZIP，保留 `parts` 文件夹，使用浏览器打开 `index.html`。首页可体验三个结构方案，并直接预览三条家长阅读视觉路线。
@@ -16,6 +18,6 @@
 
 ## 在线体验设置
 
-进入 [Settings → Pages](https://github.com/bennybenny869869-hash/XXX/settings/pages)，Source 选择 **Deploy from a branch**，分支选择 **prototype-preview**，目录选择 **/(root)**，点击 **Save**。如果此前已启用同一分支，无需重新设置。
+进入 [Settings → Pages](https://github.com/bennybenny869869-hash/XXX/settings/pages)，Source 选择 **Deploy from a branch**，分支选择 **gh-pages**，目录选择 **/(root)**，点击 **Save**。如果此前已启用同一分支，无需重新设置。
 
 所有业务数据均为模拟；不接真实登录、微信通知或付费服务。
